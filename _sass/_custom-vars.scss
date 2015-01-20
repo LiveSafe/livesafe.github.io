@@ -1,10 +1,13 @@
 // Theme vars
-$primary-theme-color: #152D54;
-$secondary-theme-color: #D5C86D;
+// TODO: rename all to theme-<type>-color
+$primary-theme-color: #2E86AB;
+$secondary-theme-color: #F5F749;
 $background-theme-color: whitesmoke;
-$accent-theme-color: #D5866D;
+$accent-theme-color: #EF5F2D;
+$dark-theme-color: #564138;
 
-$footer-theme-color: #222;
+$theme-heading-color: #EF5F2D;
+$footer-theme-color: $dark-theme-color;
 
 $footer-theme-height: 28px;
 
@@ -14,6 +17,8 @@ $susy: (
 
 // Typeplate Vars
 $typl8-font-family: 'Open Sans', sans-serif;
+
+$typl8-heading-color: $theme-heading-color;
 
 $typl8-scale: (
   typl8-tera: 81,
