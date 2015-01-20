@@ -11,14 +11,19 @@
 
     <body>
 
-        {% include header.html %}
+        <div class="page-wrap">
 
-        <div class="main-content">
-            {{ page.main_content_type }}
-            {{ content }}
+            {% include header.html %}
+    
+            <div class="main-content">
+                {{ page.main_content_type }}
+                {{ content }}
+            </div>
+
         </div>
 
         {% include footer.html %}
+
     </body>
 
 </html>

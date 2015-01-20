@@ -1,0 +1,52 @@
+footer,
+.footer {
+  background-color: $footer-theme-color;
+  color: $accent-theme-color;
+
+  padding: 0 10px;
+
+  font-size: 16px;
+
+  .copyright-statement {
+    display: inline-block;
+    width: span(9 of 12);
+  }
+
+  .powered-by {
+    color: $background-theme-color;
+    display: inline-block;
+    width: span(3 of 12);
+  }
+
+  p {
+    margin: 0;
+  }
+
+  img {
+    height: 22px;
+    vertical-align: middle;
+  }
+}
+
+
+// Sticky footer
+
+html, body {
+  height: 100%;
+}
+
+.page-wrap {
+  min-height:100%;
+  margin-bottom: -$footer-theme-height;
+}
+
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+footer,
+.footer,
+.page-wrap:after {
+  height: $footer-theme-height;
+}
