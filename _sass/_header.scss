@@ -1,0 +1,55 @@
+header,
+.header {
+  height: 50px;
+  margin: 0 0 5px 0;
+  background-color: $primary-theme-color;
+  color: $background-theme-color;
+
+  * {
+    display: inline-block;
+  }
+
+  a {
+    color: $secondary-theme-color;
+    text-decoration: none;
+
+  }
+
+  ul {
+    margin: 0;
+    list-style: none;
+  }
+}
+
+.logo-container {
+  width: span(2 of 5);
+  padding: 5px 0 5px 5px;
+
+  * {
+    display: inline;
+  }
+}
+
+.logo-text {
+  font-family: 'Droid Sans Mono', ;
+}
+
+.logo-image {
+  height: 35px;
+}
+
+.nav {
+  width:  span(3 of 5);
+}
+
+.nav-list {
+  float: right;
+}
+
+.nav-item {
+  margin: 0 10px;
+
+  a:hover {
+    color: $accent-theme-color;
+  }
+}

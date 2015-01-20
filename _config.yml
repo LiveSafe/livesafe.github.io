@@ -1,2 +1,10 @@
 sass:
     style: :compressed
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: "pages"
+        values:
+            layout: "default"

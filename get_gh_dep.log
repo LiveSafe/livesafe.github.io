@@ -1,0 +1,14 @@
+2015-01-15T12:56:22-0500 ./get_gh_dep.sh _sass Compass compass 1.0.1 core/stylesheets
+2015-01-15T12:56:32-0500 ./get_gh_dep.sh _sass ericam susy 2.2.1 sass
+2015-01-15T18:06:54-0500 ./get_gh_dep.sh _sass ericam susy 2.2.1 sass
+2015-01-15T18:06:59-0500 ./get_gh_dep.sh _sass Compass compass 1.0.1 core/stylesheets
+2015-01-15T18:08:51-0500 ./get_gh_dep.sh _sass ericam susy 2.2.1 sass
+2015-01-15T18:09:30-0500 ./get_gh_dep.sh _sass Compass compass 1.0.1 core/stylesheets
+2015-01-15T18:09:35-0500 ./get_gh_dep.sh _sass ericam susy 2.2.1 sass
+2015-01-15T18:12:08-0500 ./get_gh_dep.sh _sass Compass compass 1.0.1 core/stylesheets
+2015-01-15T18:12:51-0500 ./get_gh_dep.sh _sass Compass compass 1.0.1 core/stylesheets
+2015-01-15T18:12:58-0500 ./get_gh_dep.sh _sass ericam susy 2.2.1 sass
+2015-01-15T18:14:59-0500 ./get_gh_dep.sh _sass Compass compass 1.0.1 core/stylesheets
+2015-01-15T18:15:02-0500 ./get_gh_dep.sh _sass ericam susy 2.2.1 sass
+2015-01-19T17:58:09-0500 ./get_gh_dep.sh _sass Compass compass 1.0.3 core/stylesheets
+2015-01-19T18:21:23-0500 ./get_gh_dep.sh _sass thoughtbot bourbon v4.1.1 app/assets/stylesheets
