@@ -99,7 +99,8 @@
         {% endif %}
       </article>
     </main>
-    <div class="bottom-closer">
+
+    <!-- <div class="bottom-closer">
       <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>
         Image
       </div>
@@ -108,7 +109,9 @@
         <h2 class="blog-description">{{ site.description }}</h2>
         <a href="/" class="btn">Back Home</a>
       </div>
-    </div>
+    </div> -->
+    {% include footer.html %}
+
     {% include javascripts.html %}
   </body>
 </html>

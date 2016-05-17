@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "print(\"hello world\")"
-author: fox
 date:   2016-05-15 14:30
+author: fox
 categories: livesafe
 tags: welcome
 image: /assets/article_images/2016-05-16-hello-world/tech_team.png
