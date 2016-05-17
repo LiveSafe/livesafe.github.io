@@ -8,6 +8,7 @@ tags: welcome
 image: /assets/article_images/2016-05-16-hello-world/tech_team.png
 image2: /assets/article_images/2016-05-16-hello-world/tech_team2.png
 permalink: /helloworld/
+comments: true
 ---
 
 # Welcome to the LiveSafe Engineering Blog.

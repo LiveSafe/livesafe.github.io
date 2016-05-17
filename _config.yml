@@ -37,7 +37,7 @@ baseurl: ""
 twitter_handle: '@LiveSafeDev'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: livesafeengineeringblog
 
 # social icons and sharing options
 social:
