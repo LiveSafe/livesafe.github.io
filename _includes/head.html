@@ -31,6 +31,7 @@
   {% elsif site.description %}
   <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
   {% endif %}
+  <meta property="og:image" content="{{ site.logo | prepend: site.url }}"/>
 
   {% if page.meta-keywords %}
   <meta name="keywords" content="{{ page.meta-keywords }}" />
