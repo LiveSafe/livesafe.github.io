@@ -1,11 +1,16 @@
 ---
 layout: post
 title:  "Mocking Network Calls in Swift"
-date:   2016-05-14 14:30
-categories: ios
+date:   2016-05-15 14:30
 author: fox
-tags: swift ios networking
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+categories: ios
+tags: swift, ios, networking
+image:
+image2:
+permalink: /mocking-network-calls-in-swift/
+comments: true
+meta-description: "Learn how to abstract away your network layer to easily mock network calls with Swift and Alamofire"
+meta-keywords: "swift,alamofire,testing,protocol,technology,programming,ios"
 ---
 #  Using Protocols to Stub out APIs
 

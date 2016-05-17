@@ -3,12 +3,14 @@ layout: post
 title:  "print(\"hello world\")"
 date:   2016-05-15 14:30
 author: fox
-categories: livesafe
+categories: team
 tags: welcome
 image: /assets/article_images/2016-05-16-hello-world/tech_team.png
 image2: /assets/article_images/2016-05-16-hello-world/tech_team2.png
 permalink: /helloworld/
 comments: true
+meta-description: "Welcome to the LiveSafe Engineering Blog"
+meta-keywords: "team,technology,programming,scala,swift,java,angular,react,software testing,jenkins,akka"
 ---
 
 # Welcome to the LiveSafe Engineering Blog.

@@ -6,6 +6,7 @@ gems:
 # Site settings
 title: "LiveSafe Engineering Blog"
 description: "Bits and Bytes from the LiveSafe Engineering Team"
+keywords: "Swift,Scala,akka,Java,JavaScript,angular,react,php,sql,aws,docker,Objective-C,Web development,engineering,team,careers,dc,tech,references,examples,references,source code,demos,tips,programming,ios,android"
 
 nav_logo: "/assets/images/logos/ls_engineering_horizontal_white.svg"
 
