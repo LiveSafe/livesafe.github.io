@@ -12,6 +12,7 @@ nav_logo: "/assets/images/logos/ls_engineering_horizontal_white.svg"
 
 #blog logo
 logo: "/assets/images/logos/ls_logo.svg"
+logo_png: "/assets/images/logos/ls_logo.png"
 
 # blog cover
 cover: "/assets/images/heroes.png"
