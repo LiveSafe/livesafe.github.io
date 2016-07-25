@@ -32,7 +32,7 @@ authors:
 
 paginate:	10
 
-url: "engineering.livesafemobile.com" # the base hostname & protocol for your site
+url: "http://engineering.livesafemobile.com" # the base hostname & protocol for your site
 baseurl: ""
 
 #used to display twitter cards
