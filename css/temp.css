@@ -1,0 +1,35 @@
+html, body {
+  margin-left: 5%;
+  width: 90%;
+  height: 100%;
+}
+
+html {
+  display: table;
+  font-family: Avenir, Helvetica, sans-serif;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  color: #4d4d4d;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: normal;
+}
+
+a {
+  color: #007CAB;  
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  max-width: 75%;
+}
